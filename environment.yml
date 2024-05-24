@@ -1,0 +1,56 @@
+name: DA
+channels:
+    - defaults
+dependencies:
+    - black=24.3.0=py311haa95532_0
+    - bzip2=1.0.8=h2bbff1b_6
+    - ca-certificates=2024.3.11=haa95532_0
+    - cffi=1.16.0=py311h2bbff1b_1
+    - cfgv=3.4.0=py311haa95532_0
+    - click=8.1.7=py311haa95532_0
+    - colorama=0.4.6=py311haa95532_0
+    - distlib=0.3.8=py311haa95532_0
+    - filelock=3.13.1=py311haa95532_0
+    - flake8=7.0.0=py311haa95532_0
+    - identify=2.5.5=py311haa95532_0
+    - isort=5.9.3=pyhd3eb1b0_0
+    - krb5=1.20.1=h5b6d351_0
+    - libffi=3.4.4=hd77b12b_1
+    - libpq=12.17=h906ac69_0
+    - mccabe=0.7.0=pyhd3eb1b0_0
+    - mypy_extensions=1.0.0=py311haa95532_0
+    - nodeenv=1.7.0=py311haa95532_0
+    - openssl=3.0.13=h2bbff1b_1
+    - packaging=23.2=py311haa95532_0
+    - pathspec=0.10.3=py311haa95532_0
+    - pip=24.0=py311haa95532_0
+    - platformdirs=3.10.0=py311haa95532_0
+    - pre-commit=3.4.0=py311haa95532_1
+    - psycopg2=2.9.9=py311h2bbff1b_0
+    - pycodestyle=2.11.1=py311haa95532_0
+    - pycparser=2.21=pyhd3eb1b0_0
+    - pyflakes=3.2.0=py311haa95532_0
+    - python=3.11.9=he1021f5_0
+    - pyyaml=6.0.1=py311h2bbff1b_0
+    - setuptools=69.5.1=py311haa95532_0
+    - sqlite=3.45.3=h2bbff1b_0
+    - tk=8.6.14=h0416ee5_0
+    - tzdata=2024a=h04d1e81_0
+    - ukkonen=1.0.1=py311h59b6b97_0
+    - vc=14.2=h2eaa2aa_1
+    - virtualenv=20.26.1=py311haa95532_0
+    - vs2015_runtime=14.29.30133=h43f2093_3
+    - wheel=0.43.0=py311haa95532_0
+    - xz=5.4.6=h8cc25b3_1
+    - yaml=0.2.5=he774522_0
+    - zlib=1.2.13=h8cc25b3_1
+    - pip:
+      - cfgv==3.4.0
+      - distlib==0.3.8
+      - filelock==3.13.4
+      - identify==2.5.36
+      - nodeenv==1.8.0
+      - pre-commit==3.7.0
+      - pyyaml==6.0.1
+      - virtualenv==20.25.3
+prefix: /Users/MelancholySeal/opt/anaconda3/envs/DA
